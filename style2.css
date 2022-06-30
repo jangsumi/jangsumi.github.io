@@ -1,0 +1,62 @@
+a { 
+    text-decoration:none;   
+}
+a:link{
+    color : white;
+}
+a:visited {
+    color: white;
+}
+
+a:hover { 
+    color: red;
+}
+
+a:active {
+    color: red;
+}
+
+
+*{
+    background-color: black;
+}
+
+.parent{
+    height : 100px;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact{
+    margin-top:250px;
+    color : white;
+    font-size : 30px; 
+    display : flex;
+    justify-content: center;
+
+}
+
+.email{
+    color : white;
+    font-size : 30px; 
+}
+
+.github{
+    color : white;
+    font-size : 30px; 
+}
+
+.instagram{
+    color : white;
+    font-size : 30px; 
+}
+
+.back{
+    margin-top: 30px;
+    color : white;
+    font-size : 30px; 
+    display : flex;
+    justify-content: center;
+}

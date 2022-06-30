@@ -1,0 +1,61 @@
+a { 
+    text-decoration:none;   
+}
+a:link{
+    color : white;
+}
+a:visited {
+    color: white;
+}
+
+a:hover { 
+    color: red;
+}
+
+a:active { 
+    color: red;
+}
+
+*{
+    background-color: black;
+}
+#menu{
+    margin-top: 300px;
+    margin-left: 700px;
+    margin-right: 700px;
+    font-size: 30px;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.parent{
+    height : 100px;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.f{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size : 30px;
+    color: white;
+    
+
+}
+
+.s{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size : 30px;
+    color: white;
+}
+
+.t{
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size : 30px;
+    color: white;
+}
+

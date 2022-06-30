@@ -1,0 +1,15 @@
+*{
+    background-color: black;
+}
+.play{
+    color : white;
+    margin-top: 150px;
+    margin-right: 100px;
+}
+
+
+.pause{
+    color : white;
+    display : flex;
+    justify-content: center;
+}
